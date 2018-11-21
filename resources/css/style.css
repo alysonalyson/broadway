@@ -1,0 +1,9 @@
+html {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+header {
+  color: white;
+  background-image: url("resources/images/flatiron.png");
+}
