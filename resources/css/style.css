@@ -25,7 +25,7 @@ p {
   font-size: 70px;
 }
 
-a {
+.header a {
   font-size: 18px;
   display: block;
   margin-bottom: 10px;
@@ -50,7 +50,19 @@ a {
   color: white;
 }
 
-footer p {
-  font-size: 11px;
+.footer {
+  background-color: dimgray;
+  width: 100%
+  display: inline;
+  text-align: left;
+}
+
+.footer p {
   color: white;
+  font-size: 11px;
+}
+
+.footer a {
+  color: white;
+  font-size: 18px;
 }
